@@ -16,3 +16,16 @@ secrets/
 updates/
 userContent/
 users/
+.config/
+.owner
+jobs/test-job/builds/1/
+jobs/test-job/builds/2/
+jobs/test-job/builds/3/
+jobs/test-job/builds/4/
+jobs/test-job/nextBuildNumber
+queue.xml
+workspace/
+jobs/test-job/builds/permalinks
+jobs/test-job/builds/permalinks
+pom.xml
+
